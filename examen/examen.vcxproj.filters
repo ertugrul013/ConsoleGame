@@ -9,78 +9,74 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
-    <Filter Include="Resource Files">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Church.h">
+    <ClInclude Include="..\headerFiles\Actor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Location.h">
+    <ClInclude Include="..\headerFiles\Church.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Actor.h">
+    <ClInclude Include="..\headerFiles\Cliff.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Cliff.h">
+    <ClInclude Include="..\headerFiles\Constants.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Constants.h">
+    <ClInclude Include="..\headerFiles\Diamond.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Diamond.h">
+    <ClInclude Include="..\headerFiles\Forrest.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Forrest.h">
+    <ClInclude Include="..\headerFiles\Location.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Map.h">
+    <ClInclude Include="..\headerFiles\Map.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Object.h">
+    <ClInclude Include="..\headerFiles\Object.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Player.h">
+    <ClInclude Include="..\headerFiles\Player.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Swamp.h">
+    <ClInclude Include="..\headerFiles\Swamp.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Church.cpp">
+    <ClCompile Include="..\sourceFiles\Actor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Cliff.cpp">
+    <ClCompile Include="..\sourceFiles\Church.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Diamond.cpp">
+    <ClCompile Include="..\sourceFiles\Cliff.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Forrest.cpp">
+    <ClCompile Include="..\sourceFiles\Diamond.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Swamp.cpp">
+    <ClCompile Include="..\sourceFiles\Forrest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="..\sourceFiles\Location.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Map.cpp">
+    <ClCompile Include="..\sourceFiles\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Location.cpp">
+    <ClCompile Include="..\sourceFiles\Map.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Player.cpp">
+    <ClCompile Include="..\sourceFiles\Object.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Actor.cpp">
+    <ClCompile Include="..\sourceFiles\Player.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Object.cpp">
+    <ClCompile Include="..\sourceFiles\Swamp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,0 +1,23 @@
+﻿  Actor.cpp
+e:\examen\examen\sourcefiles\actor.cpp(1): fatal error C1083: Cannot open include file: 'Actor.h': No such file or directory
+  Church.cpp
+e:\examen\examen\sourcefiles\church.cpp(1): fatal error C1083: Cannot open include file: 'Church.h': No such file or directory
+  Cliff.cpp
+e:\examen\examen\sourcefiles\cliff.cpp(1): fatal error C1083: Cannot open include file: 'Cliff.h': No such file or directory
+  Diamond.cpp
+e:\examen\examen\sourcefiles\diamond.cpp(1): fatal error C1083: Cannot open include file: 'Diamond.h': No such file or directory
+  Forrest.cpp
+e:\examen\examen\sourcefiles\forrest.cpp(1): fatal error C1083: Cannot open include file: 'Forrest.h': No such file or directory
+  Location.cpp
+e:\examen\examen\sourcefiles\location.cpp(1): fatal error C1083: Cannot open include file: 'Location.h': No such file or directory
+  main.cpp
+e:\examen\examen\sourcefiles\main.cpp(3): fatal error C1083: Cannot open include file: 'Constants.h': No such file or directory
+  Map.cpp
+e:\examen\examen\sourcefiles\map.cpp(1): fatal error C1083: Cannot open include file: 'Map.h': No such file or directory
+  Object.cpp
+e:\examen\examen\sourcefiles\object.cpp(1): fatal error C1083: Cannot open include file: 'Object.h': No such file or directory
+  Player.cpp
+e:\examen\examen\sourcefiles\player.cpp(1): fatal error C1083: Cannot open include file: 'Player.h': No such file or directory
+  Swamp.cpp
+e:\examen\examen\sourcefiles\swamp.cpp(1): fatal error C1083: Cannot open include file: 'Swamp.h': No such file or directory
+  Generating Code...

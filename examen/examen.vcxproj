@@ -19,67 +19,67 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Actor.h" />
-    <ClInclude Include="Church.h" />
-    <ClInclude Include="Cliff.h" />
-    <ClInclude Include="Constants.h" />
-    <ClInclude Include="Diamond.h" />
-    <ClInclude Include="Forrest.h" />
-    <ClInclude Include="Location.h" />
-    <ClInclude Include="Map.h" />
-    <ClInclude Include="Object.h" />
-    <ClInclude Include="Player.h" />
-    <ClInclude Include="Swamp.h" />
+    <ClInclude Include="..\headerFiles\Actor.h" />
+    <ClInclude Include="..\headerFiles\Church.h" />
+    <ClInclude Include="..\headerFiles\Cliff.h" />
+    <ClInclude Include="..\headerFiles\Constants.h" />
+    <ClInclude Include="..\headerFiles\Diamond.h" />
+    <ClInclude Include="..\headerFiles\Forrest.h" />
+    <ClInclude Include="..\headerFiles\Location.h" />
+    <ClInclude Include="..\headerFiles\Map.h" />
+    <ClInclude Include="..\headerFiles\Object.h" />
+    <ClInclude Include="..\headerFiles\Player.h" />
+    <ClInclude Include="..\headerFiles\Swamp.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Actor.cpp">
+    <ClCompile Include="..\sourceFiles\Actor.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Church.cpp">
+    <ClCompile Include="..\sourceFiles\Church.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Cliff.cpp">
+    <ClCompile Include="..\sourceFiles\Cliff.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Diamond.cpp">
+    <ClCompile Include="..\sourceFiles\Diamond.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Forrest.cpp">
+    <ClCompile Include="..\sourceFiles\Forrest.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Location.cpp">
+    <ClCompile Include="..\sourceFiles\Location.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="..\sourceFiles\main.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Map.cpp">
+    <ClCompile Include="..\sourceFiles\Map.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Object.cpp">
+    <ClCompile Include="..\sourceFiles\Object.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Player.cpp">
+    <ClCompile Include="..\sourceFiles\Player.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Swamp.cpp">
+    <ClCompile Include="..\sourceFiles\Swamp.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
     </ClCompile>
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{B4C1672D-3DD8-4F5F-B70E-09D0C7241715}</ProjectGuid>
+    <ProjectGuid>{E3ABCFEA-F772-42E3-840D-CC2740B2924D}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>examen</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
