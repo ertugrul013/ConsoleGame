@@ -1,9 +1,9 @@
 # ConsoleGamec
 text based adventure game made in C++
 
-#Assignment requirments
+# Assignment requirments
 
-##You get an O if:
+## You get an O if:
 ****
 
 * You do not surrender anything.
@@ -14,7 +14,7 @@ text based adventure game made in C++
 * There are still bugs in it that cause the game to crash.
 * Clear code has been copied from a classmate / classmates. Both or all receive an O.
 
-##You get a V if:
+## You get a V if:
 ****
 * If your game works reasonably well with some bugs (no showstoppers / crashes).
 * You show that you have a basic command of programming techniques in C ++.
@@ -22,7 +22,7 @@ text based adventure game made in C++
 * There is a little bit of story / game is very short.
 * You work fairly nicely with regard to your code.
 
-##You get a G if:
+## You get a G if:
 ****
 * Your game works, with a maximum of 3 bugs (no showstoppers / crashes).
 * You show that you have a good command of programming techniques in C ++.
@@ -30,7 +30,7 @@ text based adventure game made in C++
 * There is a basic story in it.
 * You work fairly nicely with regard to your code.
 
-##You get an E if:
+## You get an E if:
 ****
 * Your game works
 * There are no bugs in it at all.
