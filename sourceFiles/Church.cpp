@@ -1,4 +1,4 @@
-#include "Church.h"
+#include "../headerFiles/Church.h"
 
 Church::Church()
 	:	Location()

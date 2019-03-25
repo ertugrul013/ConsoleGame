@@ -1,4 +1,4 @@
-#include "Player.h"
+#include "../headerFiles/Player.h"
 
 Player::Player()
 	:	Actor(),

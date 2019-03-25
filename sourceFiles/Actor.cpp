@@ -1,4 +1,4 @@
-#include "Actor.h"
+#include "../headerFiles/Actor.h"
 
 Actor::Actor()
 	:	m_Name("Default"),

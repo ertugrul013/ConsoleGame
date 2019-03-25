@@ -44,6 +44,9 @@
     <ClInclude Include="..\headerFiles\Swamp.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="school.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\sourceFiles\Actor.cpp">
@@ -77,6 +80,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\sourceFiles\Swamp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="school.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

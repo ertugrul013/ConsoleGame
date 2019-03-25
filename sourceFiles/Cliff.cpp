@@ -1,4 +1,4 @@
-#include "Cliff.h"
+#include "../headerFiles/Cliff.h"
 
 Cliff::Cliff()
 	:	Location()

@@ -1,4 +1,4 @@
-#include "Diamond.h"
+#include "../headerFiles/Diamond.h"
 
 Diamond::Diamond()
 	:	Object(),

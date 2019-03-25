@@ -1,4 +1,4 @@
-#include "Location.h"
+#include "../headerFiles/Location.h"
 
 Location::Location()
 	:	m_Name("Default"),

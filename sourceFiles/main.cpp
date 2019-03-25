@@ -1,17 +1,18 @@
 #include <iostream>
 
-#include "Constants.h"
+#include "../headerFiles/Constants.h"
 
-#include "Player.h"
+#include "../headerFiles/Player.h"
 
-#include "Church.h"
-#include "Cliff.h"
-#include "Forrest.h"
-#include "Swamp.h"
+#include "../headerFiles/Church.h"
+#include "../headerFiles/Cliff.h"
+#include "../headerFiles/Forrest.h"
+#include "../headerFiles/Swamp.h"
+#include "../headerFiles/school.h"
 
-#include "Diamond.h"
+#include "../headerFiles/Diamond.h"
 
-#include "Map.h"
+#include "../headerFiles/Map.h"
 
 using namespace std;
 

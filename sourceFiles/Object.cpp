@@ -1,4 +1,4 @@
-#include "Object.h"
+#include "../headerFiles/Object.h"
 
 Object::Object()
 	: m_Name("Default"),
