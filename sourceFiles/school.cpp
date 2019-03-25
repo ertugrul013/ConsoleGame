@@ -29,6 +29,6 @@ school& school::operator=(const school& rhs)
 
 std::string school::Description() const
 {
-	std::string descr = "You have enterd a school";
+	std::string descr = "You have enterd a school. You see someone waving to you.Do you go to him or go back.";
 	return descr;
 }

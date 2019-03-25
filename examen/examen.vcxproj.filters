@@ -44,7 +44,10 @@
     <ClInclude Include="..\headerFiles\Swamp.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="school.h">
+    <ClInclude Include="..\headerFiles\school.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="emptyLocation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -82,7 +85,10 @@
     <ClCompile Include="..\sourceFiles\Swamp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="school.cpp">
+    <ClCompile Include="..\sourceFiles\school.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="emptyLocation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

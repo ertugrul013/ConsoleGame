@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\eddie-windows\documents\examen\sourcefiles\main.cpp(77): warning C4552: '+': result of expression not used
+c:\users\eddie-windows\documents\examen\sourcefiles\main.cpp(92): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  examen.vcxproj -> C:\Users\eddie-windows\Documents\examen\x64\Debug\examen.exe
